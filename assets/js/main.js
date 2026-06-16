@@ -1055,7 +1055,7 @@ function getProductFromUrl() {
 }
 
 function purchaseOnWhatsApp(product) {
-    const phoneNumber = "918347015793"; 
+    const phoneNumber = "917046432148"; 
     const message = `Hello MPWATCHHUB, I would like to inquire about:
 *Product:* ${product.name}
 *Brand:* ${product.brand}

@@ -4,7 +4,7 @@
     --dark-red: #b31027;          /* Darker red for gradients/hover */
     --bg-light: #f8f9fc;          /* Light clean backdrop */
     --bg-white: #ffffff;
-    --card-bg: rgba(255, 255, 255, 0.85); /* Glassmorphic white */
+    --card-bg: rgba(255, 255, 255, 0.82); /* Glassmorphic white */
     --text-dark: #0f1115;         /* High-contrast headings */
     --text-body: #42464e;         /* Clean readable body text */
     --text-muted: #8a909a;        /* Silver-gray secondary text */
@@ -14,6 +14,13 @@
     --shadow-red: 0 12px 40px rgba(226, 27, 60, 0.08); /* Soft glowing red shadow */
     --shadow-glow: 0 0 25px rgba(226, 27, 60, 0.35);    /* Futuristic button/element glow */
     --transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    
+    /* Pinteresty, aesthetic faded white in red background */
+    --bg-gradient: 
+        radial-gradient(circle at 0% 0%, rgba(226, 27, 60, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 100% 100%, rgba(226, 27, 60, 0.08) 0%, transparent 45%),
+        radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.75) 0%, rgba(255, 255, 255, 0.95) 100%),
+        linear-gradient(135deg, #fffefe 0%, #ffecee 50%, #fff4f5 100%);
 }
 
 * {
@@ -24,7 +31,9 @@
 }
 
 body {
-    background-color: var(--bg-light);
+    background: var(--bg-gradient);
+    background-attachment: fixed;
+    background-size: cover;
     color: var(--text-body);
     overflow-x: hidden;
     line-height: 1.6;
@@ -564,7 +573,9 @@ nav {
 
 /* Product Card */
 .product-card {
-    background: var(--bg-white);
+    background: var(--card-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
     border-radius: 16px;
     overflow: hidden;
     box-shadow: var(--shadow-red);

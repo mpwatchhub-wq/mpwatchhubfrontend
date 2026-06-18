@@ -4,7 +4,7 @@ const products = [
         "name": "carrtier Luxury Edition 1",
         "brand": "CARRTIER",
         "price": "₹1500",
-        "image": "assets/images/brands/CARTIER/cartier-1.jpeg",
+        "image": "assets/images/brands/CARRTIER/cartier-1.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
     },
     {
@@ -12,7 +12,7 @@ const products = [
         "name": "carrtier Luxury Edition 2",
         "brand": "CARRTIER",
         "price": "₹1500",
-        "image": "assets/images/brands/CARTIER/cartier-2.jpeg",
+        "image": "assets/images/brands/CARRTIER/cartier-2.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
     },
     {
@@ -20,7 +20,7 @@ const products = [
         "name": "carrtier Luxury Edition 3",
         "brand": "CARRTIER",
         "price": "₹1500",
-        "image": "assets/images/brands/CARTIER/cartier-3.jpeg",
+        "image": "assets/images/brands/CARRTIER/cartier-3.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
     },
     {
@@ -28,7 +28,7 @@ const products = [
         "name": "carrtier Luxury Edition 4",
         "brand": "CARRTIER",
         "price": "₹3200",
-        "image": "assets/images/brands/CARTIER/cartier-4.jpeg",
+        "image": "assets/images/brands/CARRTIER/cartier-4.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
     },
     {
@@ -36,7 +36,7 @@ const products = [
         "name": "carrtier Luxury Edition 5",
         "brand": "CARRTIER",
         "price": "₹1650",
-        "image": "assets/images/brands/CARTIER/cartier-5.jpeg",
+        "image": "assets/images/brands/CARRTIER/cartier-5.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
     },
     {
@@ -44,7 +44,7 @@ const products = [
         "name": "casi0 Luxury Edition 1",
         "brand": "CASI0",
         "price": "₹700",
-        "image": "assets/images/brands/CASIO/casio-1.jpeg",
+        "image": "assets/images/brands/CASI0/casio-1.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this casi0 timepiece. A perfect blend of style and precision."
     },
     {
@@ -52,7 +52,7 @@ const products = [
         "name": "casi0 Luxury Edition 2",
         "brand": "CASI0",
         "price": "₹700",
-        "image": "assets/images/brands/CASIO/casio-2.jpeg",
+        "image": "assets/images/brands/CASI0/casio-2.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this casi0 timepiece. A perfect blend of style and precision."
     },
     {
@@ -60,7 +60,7 @@ const products = [
         "name": "casi0 Luxury Edition 3",
         "brand": "CASI0",
         "price": "₹1000",
-        "image": "assets/images/brands/CASIO/casio-3.jpeg",
+        "image": "assets/images/brands/CASI0/casio-3.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this casi0 timepiece. A perfect blend of style and precision."
     },
     {
@@ -68,7 +68,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 1",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-1.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-1.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -76,7 +76,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 2",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-2.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-2.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -84,7 +84,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 3",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-3.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-3.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -92,7 +92,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 4",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-4.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-4.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -100,7 +100,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 5",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-5.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-5.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -108,7 +108,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 6",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-6.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-6.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -116,7 +116,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 7",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-7.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-7.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -124,7 +124,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 8",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-8.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-8.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -132,7 +132,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 9",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-9.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-9.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -140,7 +140,7 @@ const products = [
         "name": "G-sh0k Luxury Edition 10",
         "brand": "G-SH0K",
         "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-10.jpeg",
+        "image": "assets/images/brands/G-SH0K/gshock-10.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
     },
     {
@@ -148,7 +148,7 @@ const products = [
         "name": "HUBl0T Luxury Edition 1",
         "brand": "HUBl0T",
         "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-1.jpeg",
+        "image": "assets/images/brands/HUBl0T/hublot-1.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
     },
     {
@@ -156,7 +156,7 @@ const products = [
         "name": "HUBl0T Luxury Edition 2",
         "brand": "HUBl0T",
         "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-2.jpeg",
+        "image": "assets/images/brands/HUBl0T/hublot-2.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
     },
     {
@@ -164,7 +164,7 @@ const products = [
         "name": "HUBl0T Luxury Edition 3",
         "brand": "HUBl0T",
         "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-3.jpeg",
+        "image": "assets/images/brands/HUBl0T/hublot-3.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
     },
     {
@@ -172,7 +172,7 @@ const products = [
         "name": "HUBl0T Luxury Edition 4",
         "brand": "HUBl0T",
         "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-4.jpeg",
+        "image": "assets/images/brands/HUBl0T/hublot-4.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
     },
     {
@@ -180,7 +180,7 @@ const products = [
         "name": "HUBl0T Luxury Edition 5",
         "brand": "HUBl0T",
         "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-5.jpeg",
+        "image": "assets/images/brands/HUBl0T/hublot-5.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
     },
     {
@@ -188,7 +188,7 @@ const products = [
         "name": "HUBl0T Luxury Edition 6",
         "brand": "HUBl0T",
         "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-6.jpeg",
+        "image": "assets/images/brands/HUBl0T/hublot-6.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
     },
     {
@@ -196,7 +196,7 @@ const products = [
         "name": "HUBl0T Luxury Edition 7",
         "brand": "HUBl0T",
         "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-7.jpeg",
+        "image": "assets/images/brands/HUBl0T/hublot-7.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
     },
     {
@@ -204,7 +204,7 @@ const products = [
         "name": "HUBl0T Luxury Edition 8",
         "brand": "HUBl0T",
         "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-8.jpeg",
+        "image": "assets/images/brands/HUBl0T/hublot-8.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
     },
     {
@@ -212,7 +212,7 @@ const products = [
         "name": "00mega Luxury Edition 1",
         "brand": "00MEGA",
         "price": "₹1350",
-        "image": "assets/images/brands/OMEGA/omega-1.jpeg",
+        "image": "assets/images/brands/00MEGA/omega-1.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
     },
     {
@@ -220,7 +220,7 @@ const products = [
         "name": "00mega Luxury Edition 2",
         "brand": "00MEGA",
         "price": "₹1999",
-        "image": "assets/images/brands/OMEGA/omega-2.jpeg",
+        "image": "assets/images/brands/00MEGA/omega-2.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
     },
     {
@@ -228,7 +228,7 @@ const products = [
         "name": "00mega Luxury Edition 3",
         "brand": "00MEGA",
         "price": "₹3400",
-        "image": "assets/images/brands/OMEGA/omega-3.jpeg",
+        "image": "assets/images/brands/00MEGA/omega-3.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
     },
     {
@@ -236,7 +236,7 @@ const products = [
         "name": "00mega Luxury Edition 4",
         "brand": "00MEGA",
         "price": "₹1350",
-        "image": "assets/images/brands/OMEGA/omega-4.jpeg",
+        "image": "assets/images/brands/00MEGA/omega-4.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
     },
     {
@@ -244,7 +244,7 @@ const products = [
         "name": "00mega Luxury Edition 5",
         "brand": "00MEGA",
         "price": "₹1500",
-        "image": "assets/images/brands/OMEGA/omega-5.jpeg",
+        "image": "assets/images/brands/00MEGA/omega-5.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
     },
     {
@@ -252,7 +252,7 @@ const products = [
         "name": "00mega Luxury Edition 6",
         "brand": "00MEGA",
         "price": "₹1350",
-        "image": "assets/images/brands/OMEGA/omega-6.jpeg",
+        "image": "assets/images/brands/00MEGA/omega-6.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
     },
     {
@@ -260,7 +260,7 @@ const products = [
         "name": "R0lex Luxury Edition 1",
         "brand": "R0LEX",
         "price": "₹1300",
-        "image": "assets/images/brands/ROLEX/rolex-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-1.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -268,7 +268,7 @@ const products = [
         "name": "R0lex Luxury Edition 2",
         "brand": "R0LEX",
         "price": "₹1300",
-        "image": "assets/images/brands/ROLEX/rolex-2.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-2.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -276,7 +276,7 @@ const products = [
         "name": "R0lex Luxury Edition 3",
         "brand": "R0LEX",
         "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-3.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-3.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -284,7 +284,7 @@ const products = [
         "name": "R0lex Luxury Edition 4",
         "brand": "R0LEX",
         "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-4.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-4.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -292,7 +292,7 @@ const products = [
         "name": "R0lex Luxury Edition 5",
         "brand": "R0LEX",
         "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-5.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-5.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -300,7 +300,7 @@ const products = [
         "name": "R0lex Luxury Edition 6",
         "brand": "R0LEX",
         "price": "₹1800",
-        "image": "assets/images/brands/ROLEX/rolex-6.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-6.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -308,7 +308,7 @@ const products = [
         "name": "R0lex Luxury Edition 7",
         "brand": "R0LEX",
         "price": "₹1300",
-        "image": "assets/images/brands/ROLEX/rolex-7.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-7.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -316,7 +316,7 @@ const products = [
         "name": "R0lex Luxury Edition 8",
         "brand": "R0LEX",
         "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-8.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-8.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -324,7 +324,7 @@ const products = [
         "name": "R0lex Luxury Edition 9",
         "brand": "R0LEX",
         "price": "₹1600",
-        "image": "assets/images/brands/ROLEX/rolex-9.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-9.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -332,7 +332,7 @@ const products = [
         "name": "R0lex Luxury Edition 10",
         "brand": "R0LEX",
         "price": "₹1700",
-        "image": "assets/images/brands/ROLEX/rolex-10.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-10.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -340,7 +340,7 @@ const products = [
         "name": "R0lex Luxury Edition 11",
         "brand": "R0LEX",
         "price": "₹1900",
-        "image": "assets/images/brands/ROLEX/rolex-11.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-11.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -348,7 +348,7 @@ const products = [
         "name": "R0lex Luxury Edition 12",
         "brand": "R0LEX",
         "price": "₹1600",
-        "image": "assets/images/brands/ROLEX/rolex-12.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-12.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -356,7 +356,7 @@ const products = [
         "name": "R0lex Luxury Edition 13",
         "brand": "R0LEX",
         "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-13.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-13.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
     },
     {
@@ -364,7 +364,7 @@ const products = [
         "name": "Tisot Luxury Edition 1",
         "brand": "TISS0T",
         "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-1.jpeg",
+        "image": "assets/images/brands/TISS0T/tisot-1.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
     },
     {
@@ -372,7 +372,7 @@ const products = [
         "name": "Tisot Luxury Edition 2",
         "brand": "TISS0T",
         "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-2.jpeg",
+        "image": "assets/images/brands/TISS0T/tisot-2.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
     },
     {
@@ -380,7 +380,7 @@ const products = [
         "name": "Tisot Luxury Edition 3",
         "brand": "TISS0T",
         "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-3.jpeg",
+        "image": "assets/images/brands/TISS0T/tisot-3.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
     },
     {
@@ -388,7 +388,7 @@ const products = [
         "name": "Tisot Luxury Edition 4",
         "brand": "TISS0T",
         "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-4.jpeg",
+        "image": "assets/images/brands/TISS0T/tisot-4.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
     },
     {
@@ -396,7 +396,7 @@ const products = [
         "name": "Tisot Luxury Edition 5",
         "brand": "TISS0T",
         "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-5.jpeg",
+        "image": "assets/images/brands/TISS0T/tisot-5.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
     },
     {
@@ -404,7 +404,7 @@ const products = [
         "name": "Tisot Luxury Edition 6",
         "brand": "TISS0T",
         "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-6.jpeg",
+        "image": "assets/images/brands/TISS0T/tisot-6.jpeg",
         "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
     },
     {
@@ -413,12 +413,12 @@ const products = [
         "brand": "AUDEMAS PIGET",
         "category": "watch",
         "price": "₹3599",
-        "image": "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-52-1.jpeg",
+        "image": "assets/images/brands/AUDEMAS PIGET/audemars-piguet-52-1.jpeg",
         "images": [
-            "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-52-1.jpeg",
-            "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-52-2.jpeg",
-            "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-52-3.jpeg",
-            "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-52-4.jpeg"
+            "assets/images/brands/AUDEMAS PIGET/audemars-piguet-52-1.jpeg",
+            "assets/images/brands/AUDEMAS PIGET/audemars-piguet-52-2.jpeg",
+            "assets/images/brands/AUDEMAS PIGET/audemars-piguet-52-3.jpeg",
+            "assets/images/brands/AUDEMAS PIGET/audemars-piguet-52-4.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this AUDEMAS PIGET watch. A perfect blend of style and precision."
     },
@@ -428,12 +428,12 @@ const products = [
         "brand": "HUBl0T",
         "category": "watch",
         "price": "₹2499",
-        "image": "assets/images/brands/HUBLOT/hublot-53-1.jpeg",
+        "image": "assets/images/brands/HUBl0T/hublot-53-1.jpeg",
         "images": [
-            "assets/images/brands/HUBLOT/hublot-53-1.jpeg",
-            "assets/images/brands/HUBLOT/hublot-53-2.jpeg",
-            "assets/images/brands/HUBLOT/hublot-53-3.jpeg",
-            "assets/images/brands/HUBLOT/hublot-53-4.jpeg"
+            "assets/images/brands/HUBl0T/hublot-53-1.jpeg",
+            "assets/images/brands/HUBl0T/hublot-53-2.jpeg",
+            "assets/images/brands/HUBl0T/hublot-53-3.jpeg",
+            "assets/images/brands/HUBl0T/hublot-53-4.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this HUBl0T watch. A perfect blend of style and precision."
     },
@@ -443,12 +443,12 @@ const products = [
         "brand": "00MEGA",
         "category": "watch",
         "price": "₹3999",
-        "image": "assets/images/brands/OMEGA/omega-54-1.jpeg",
+        "image": "assets/images/brands/00MEGA/omega-54-1.jpeg",
         "images": [
-            "assets/images/brands/OMEGA/omega-54-1.jpeg",
-            "assets/images/brands/OMEGA/omega-55-1.jpeg",
-            "assets/images/brands/OMEGA/omega-56-1.jpeg",
-            "assets/images/brands/OMEGA/omega-57-1.jpeg"
+            "assets/images/brands/00MEGA/omega-54-1.jpeg",
+            "assets/images/brands/00MEGA/omega-55-1.jpeg",
+            "assets/images/brands/00MEGA/omega-56-1.jpeg",
+            "assets/images/brands/00MEGA/omega-57-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this 00MEGA watch. A perfect blend of style and precision."
     },
@@ -458,12 +458,12 @@ const products = [
         "brand": "RAD0",
         "category": "watch",
         "price": "₹1100",
-        "image": "assets/images/brands/RADO/rado-58-1.jpeg",
+        "image": "assets/images/brands/RAD0/rado-58-1.jpeg",
         "images": [
-            "assets/images/brands/RADO/rado-58-1.jpeg",
-            "assets/images/brands/RADO/rado-58-2.jpeg",
-            "assets/images/brands/RADO/rado-58-3.jpeg",
-            "assets/images/brands/RADO/rado-58-4.jpeg"
+            "assets/images/brands/RAD0/rado-58-1.jpeg",
+            "assets/images/brands/RAD0/rado-58-2.jpeg",
+            "assets/images/brands/RAD0/rado-58-3.jpeg",
+            "assets/images/brands/RAD0/rado-58-4.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this RAD0 watch. A perfect blend of style and precision."
     },
@@ -473,9 +473,9 @@ const products = [
         "brand": "RECHAARD MILI",
         "category": "watch",
         "price": "₹1499",
-        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-59-1.jpeg",
+        "image": "assets/images/brands/RECHAARD MILI/richard-millie-59-1.jpeg",
         "images": [
-            "assets/images/brands/RICHARD MILLIE/richard-millie-59-1.jpeg"
+            "assets/images/brands/RECHAARD MILI/richard-millie-59-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
     },
@@ -485,9 +485,9 @@ const products = [
         "brand": "RECHAARD MILI",
         "category": "watch",
         "price": "₹1499",
-        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-60-1.jpeg",
+        "image": "assets/images/brands/RECHAARD MILI/richard-millie-60-1.jpeg",
         "images": [
-            "assets/images/brands/RICHARD MILLIE/richard-millie-60-1.jpeg"
+            "assets/images/brands/RECHAARD MILI/richard-millie-60-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
     },
@@ -497,9 +497,9 @@ const products = [
         "brand": "RECHAARD MILI",
         "category": "watch",
         "price": "₹1499",
-        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-61-1.jpeg",
+        "image": "assets/images/brands/RECHAARD MILI/richard-millie-61-1.jpeg",
         "images": [
-            "assets/images/brands/RICHARD MILLIE/richard-millie-61-1.jpeg"
+            "assets/images/brands/RECHAARD MILI/richard-millie-61-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
     },
@@ -509,9 +509,9 @@ const products = [
         "brand": "RECHAARD MILI",
         "category": "watch",
         "price": "₹1499",
-        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-62-1.jpeg",
+        "image": "assets/images/brands/RECHAARD MILI/richard-millie-62-1.jpeg",
         "images": [
-            "assets/images/brands/RICHARD MILLIE/richard-millie-62-1.jpeg"
+            "assets/images/brands/RECHAARD MILI/richard-millie-62-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
     },
@@ -521,9 +521,9 @@ const products = [
         "brand": "RECHAARD MILI",
         "category": "watch",
         "price": "₹1499",
-        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-63-1.jpeg",
+        "image": "assets/images/brands/RECHAARD MILI/richard-millie-63-1.jpeg",
         "images": [
-            "assets/images/brands/RICHARD MILLIE/richard-millie-63-1.jpeg"
+            "assets/images/brands/RECHAARD MILI/richard-millie-63-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
     },
@@ -533,9 +533,9 @@ const products = [
         "brand": "RECHAARD MILI",
         "category": "watch",
         "price": "₹1499",
-        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-64-1.jpeg",
+        "image": "assets/images/brands/RECHAARD MILI/richard-millie-64-1.jpeg",
         "images": [
-            "assets/images/brands/RICHARD MILLIE/richard-millie-64-1.jpeg"
+            "assets/images/brands/RECHAARD MILI/richard-millie-64-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
     },
@@ -545,9 +545,9 @@ const products = [
         "brand": "RECHAARD MILI",
         "category": "watch",
         "price": "₹1499",
-        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-65-1.jpeg",
+        "image": "assets/images/brands/RECHAARD MILI/richard-millie-65-1.jpeg",
         "images": [
-            "assets/images/brands/RICHARD MILLIE/richard-millie-65-1.jpeg"
+            "assets/images/brands/RECHAARD MILI/richard-millie-65-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
     },
@@ -557,9 +557,9 @@ const products = [
         "brand": "RECHAARD MILI",
         "category": "watch",
         "price": "₹1499",
-        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-66-1.jpeg",
+        "image": "assets/images/brands/RECHAARD MILI/richard-millie-66-1.jpeg",
         "images": [
-            "assets/images/brands/RICHARD MILLIE/richard-millie-66-1.jpeg"
+            "assets/images/brands/RECHAARD MILI/richard-millie-66-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
     },
@@ -569,12 +569,12 @@ const products = [
         "brand": "R0LEX",
         "category": "watch",
         "price": "₹999",
-        "image": "assets/images/brands/ROLEX/rolex-67-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-67-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-67-1.jpeg",
-            "assets/images/brands/ROLEX/rolex-67-2.jpeg",
-            "assets/images/brands/ROLEX/rolex-67-3.jpeg",
-            "assets/images/brands/ROLEX/rolex-67-4.jpeg"
+            "assets/images/brands/R0LEX/rolex-67-1.jpeg",
+            "assets/images/brands/R0LEX/rolex-67-2.jpeg",
+            "assets/images/brands/R0LEX/rolex-67-3.jpeg",
+            "assets/images/brands/R0LEX/rolex-67-4.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX watch. A perfect blend of style and precision."
     },
@@ -584,9 +584,9 @@ const products = [
         "brand": "R0LEX",
         "category": "watch",
         "price": "₹3699",
-        "image": "assets/images/brands/ROLEX/rolex-68-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-68-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-68-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-68-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX watch. A perfect blend of style and precision."
     },
@@ -596,9 +596,9 @@ const products = [
         "brand": "TAGG HUER",
         "category": "watch",
         "price": "₹4599",
-        "image": "assets/images/brands/TAG HEUER/tag-heuer-69-1.jpeg",
+        "image": "assets/images/brands/TAGG HUER/tag-heuer-69-1.jpeg",
         "images": [
-            "assets/images/brands/TAG HEUER/tag-heuer-69-1.jpeg"
+            "assets/images/brands/TAGG HUER/tag-heuer-69-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this TAGG HUER watch. A perfect blend of style and precision."
     },
@@ -608,9 +608,9 @@ const products = [
         "brand": "T0MMYY HILFEGER",
         "category": "watch",
         "price": "₹1350",
-        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-70-1.jpeg",
+        "image": "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-70-1.jpeg",
         "images": [
-            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-70-1.jpeg"
+            "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-70-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
     },
@@ -620,9 +620,9 @@ const products = [
         "brand": "T0MMYY HILFEGER",
         "category": "watch",
         "price": "₹1350",
-        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-71-1.jpeg",
+        "image": "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-71-1.jpeg",
         "images": [
-            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-71-1.jpeg"
+            "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-71-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
     },
@@ -632,9 +632,9 @@ const products = [
         "brand": "T0MMYY HILFEGER",
         "category": "watch",
         "price": "₹1350",
-        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-72-1.jpeg",
+        "image": "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-72-1.jpeg",
         "images": [
-            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-72-1.jpeg"
+            "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-72-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
     },
@@ -644,9 +644,9 @@ const products = [
         "brand": "T0MMYY HILFEGER",
         "category": "watch",
         "price": "₹1350",
-        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-73-1.jpeg",
+        "image": "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-73-1.jpeg",
         "images": [
-            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-73-1.jpeg"
+            "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-73-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
     },
@@ -656,9 +656,9 @@ const products = [
         "brand": "T0MMYY HILFEGER",
         "category": "watch",
         "price": "₹1350",
-        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-74-1.jpeg",
+        "image": "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-74-1.jpeg",
         "images": [
-            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-74-1.jpeg"
+            "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-74-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
     },
@@ -668,9 +668,9 @@ const products = [
         "brand": "T0MMYY HILFEGER",
         "category": "watch",
         "price": "₹1350",
-        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-75-1.jpeg",
+        "image": "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-75-1.jpeg",
         "images": [
-            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-75-1.jpeg"
+            "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-75-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
     },
@@ -680,9 +680,9 @@ const products = [
         "brand": "T0MMYY HILFEGER",
         "category": "watch",
         "price": "₹1350",
-        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-76-1.jpeg",
+        "image": "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-76-1.jpeg",
         "images": [
-            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-76-1.jpeg"
+            "assets/images/brands/T0MMYY HILFEGER/tommy-hilfiger-76-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
     },
@@ -692,9 +692,9 @@ const products = [
         "brand": "CARRTIER",
         "category": "sunglasses",
         "price": "₹800",
-        "image": "assets/images/sunglasses/CARTIER/cartier-77-1.jpeg",
+        "image": "assets/images/sunglasses/CARRTIER/cartier-77-1.jpeg",
         "images": [
-            "assets/images/sunglasses/CARTIER/cartier-77-1.jpeg"
+            "assets/images/sunglasses/CARRTIER/cartier-77-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this CARRTIER sunglasses. A perfect blend of style and precision."
     },
@@ -704,9 +704,9 @@ const products = [
         "brand": "D0LCE AND GABBBAANA",
         "category": "sunglasses",
         "price": "₹700",
-        "image": "assets/images/sunglasses/DOLCE AND GABBANA/dolce-and-gabbana-78-1.jpeg",
+        "image": "assets/images/sunglasses/D0LCE AND GABBBAANA/dolce-and-gabbana-78-1.jpeg",
         "images": [
-            "assets/images/sunglasses/DOLCE AND GABBANA/dolce-and-gabbana-78-1.jpeg"
+            "assets/images/sunglasses/D0LCE AND GABBBAANA/dolce-and-gabbana-78-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this D0LCE AND GABBBAANA sunglasses. A perfect blend of style and precision."
     },
@@ -716,9 +716,9 @@ const products = [
         "brand": "GUUCI",
         "category": "sunglasses",
         "price": "₹700",
-        "image": "assets/images/sunglasses/GUCCI/gucci-79-1.jpeg",
+        "image": "assets/images/sunglasses/GUUCI/gucci-79-1.jpeg",
         "images": [
-            "assets/images/sunglasses/GUCCI/gucci-79-1.jpeg"
+            "assets/images/sunglasses/GUUCI/gucci-79-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this GUUCI sunglasses. A perfect blend of style and precision."
     },
@@ -728,10 +728,10 @@ const products = [
         "brand": "GUUCI",
         "category": "sunglasses",
         "price": "₹800",
-        "image": "assets/images/sunglasses/GUCCI/gucci-80-1.jpeg",
+        "image": "assets/images/sunglasses/GUUCI/gucci-80-1.jpeg",
         "images": [
-            "assets/images/sunglasses/GUCCI/gucci-80-1.jpeg",
-            "assets/images/sunglasses/GUCCI/gucci-80-2.jpeg"
+            "assets/images/sunglasses/GUUCI/gucci-80-1.jpeg",
+            "assets/images/sunglasses/GUUCI/gucci-80-2.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this GUUCI sunglasses. A perfect blend of style and precision."
     },
@@ -741,9 +741,9 @@ const products = [
         "brand": "MEYBACH",
         "category": "sunglasses",
         "price": "₹850",
-        "image": "assets/images/sunglasses/MAYBACH/maybach-81-1.jpeg",
+        "image": "assets/images/sunglasses/MEYBACH/maybach-81-1.jpeg",
         "images": [
-            "assets/images/sunglasses/MAYBACH/maybach-81-1.jpeg"
+            "assets/images/sunglasses/MEYBACH/maybach-81-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this MEYBACH sunglasses. A perfect blend of style and precision."
     },
@@ -753,10 +753,10 @@ const products = [
         "brand": "MEW MEW",
         "category": "sunglasses",
         "price": "₹750",
-        "image": "assets/images/sunglasses/MIUMIU/miumiu-82-1.jpeg",
+        "image": "assets/images/sunglasses/MEW MEW/miumiu-82-1.jpeg",
         "images": [
-            "assets/images/sunglasses/MIUMIU/miumiu-82-1.jpeg",
-            "assets/images/sunglasses/MIUMIU/miumiu-82-2.jpeg"
+            "assets/images/sunglasses/MEW MEW/miumiu-82-1.jpeg",
+            "assets/images/sunglasses/MEW MEW/miumiu-82-2.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this MEW MEW sunglasses. A perfect blend of style and precision."
     },
@@ -766,9 +766,9 @@ const products = [
         "brand": "PRRAADA",
         "category": "sunglasses",
         "price": "₹800",
-        "image": "assets/images/sunglasses/PRADA/prada-83-1.jpeg",
+        "image": "assets/images/sunglasses/PRRAADA/prada-83-1.jpeg",
         "images": [
-            "assets/images/sunglasses/PRADA/prada-83-1.jpeg"
+            "assets/images/sunglasses/PRRAADA/prada-83-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this PRRAADA sunglasses. A perfect blend of style and precision."
     },
@@ -778,9 +778,9 @@ const products = [
         "brand": "REYBAN",
         "category": "sunglasses",
         "price": "₹700",
-        "image": "assets/images/sunglasses/RAY BAN/ray-ban-84-1.jpeg",
+        "image": "assets/images/sunglasses/REYBAN/ray-ban-84-1.jpeg",
         "images": [
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-1.jpeg"
+            "assets/images/sunglasses/REYBAN/ray-ban-84-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this REYBAN sunglasses. A perfect blend of style and precision."
     },
@@ -790,9 +790,9 @@ const products = [
         "brand": "VERSACHE",
         "category": "sunglasses",
         "price": "₹800",
-        "image": "assets/images/sunglasses/VERSACE/versace-85-1.jpeg",
+        "image": "assets/images/sunglasses/VERSACHE/versace-85-1.jpeg",
         "images": [
-            "assets/images/sunglasses/VERSACE/versace-85-1.jpeg"
+            "assets/images/sunglasses/VERSACHE/versace-85-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this VERSACHE sunglasses. A perfect blend of style and precision."
     },
@@ -802,9 +802,9 @@ const products = [
         "brand": "REYBAN",
         "category": "sunglasses",
         "price": "₹700",
-        "image": "assets/images/sunglasses/RAY BAN/ray-ban-84-2.jpeg",
+        "image": "assets/images/sunglasses/REYBAN/ray-ban-84-2.jpeg",
         "images": [
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-2.jpeg"
+            "assets/images/sunglasses/REYBAN/ray-ban-84-2.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this REYBAN sunglasses. A perfect blend of style and precision."
     },
@@ -814,9 +814,9 @@ const products = [
         "brand": "REYBAN",
         "category": "sunglasses",
         "price": "₹700",
-        "image": "assets/images/sunglasses/RAY BAN/ray-ban-84-3.jpeg",
+        "image": "assets/images/sunglasses/REYBAN/ray-ban-84-3.jpeg",
         "images": [
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-3.jpeg"
+            "assets/images/sunglasses/REYBAN/ray-ban-84-3.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this REYBAN sunglasses. A perfect blend of style and precision."
     },
@@ -826,9 +826,9 @@ const products = [
         "brand": "REYBAN",
         "category": "sunglasses",
         "price": "₹700",
-        "image": "assets/images/sunglasses/RAY BAN/ray-ban-84-4.jpeg",
+        "image": "assets/images/sunglasses/REYBAN/ray-ban-84-4.jpeg",
         "images": [
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-4.jpeg"
+            "assets/images/sunglasses/REYBAN/ray-ban-84-4.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this REYBAN sunglasses. A perfect blend of style and precision."
     },
@@ -838,9 +838,9 @@ const products = [
         "brand": "REYBAN",
         "category": "sunglasses",
         "price": "₹700",
-        "image": "assets/images/sunglasses/RAY BAN/ray-ban-84-5.jpeg",
+        "image": "assets/images/sunglasses/REYBAN/ray-ban-84-5.jpeg",
         "images": [
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-5.jpeg"
+            "assets/images/sunglasses/REYBAN/ray-ban-84-5.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this REYBAN sunglasses. A perfect blend of style and precision."
     },
@@ -850,405 +850,13 @@ const products = [
         "brand": "MEW MEW",
         "category": "sunglasses",
         "price": "₹750",
-        "image": "assets/images/sunglasses/MIUMIU/miumiu-82-3.jpeg",
+        "image": "assets/images/sunglasses/MEW MEW/miumiu-82-3.jpeg",
         "images": [
-            "assets/images/sunglasses/MIUMIU/miumiu-82-3.jpeg"
+            "assets/images/sunglasses/MEW MEW/miumiu-82-3.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this MEW MEW sunglasses. A perfect blend of style and precision."
-    },
-    {
-        "id": 91,
-        "name": "R0LEX Luxury Edition 16",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-91-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-91-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 92,
-        "name": "R0LEX Luxury Edition 17",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-92-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-92-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 93,
-        "name": "R0LEX Luxury Edition 18",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-93-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-93-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 94,
-        "name": "R0LEX Luxury Edition 19",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-94-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-94-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 95,
-        "name": "R0LEX Luxury Edition 20",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-95-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-95-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 96,
-        "name": "R0LEX Luxury Edition 21",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-96-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-96-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 97,
-        "name": "R0LEX Luxury Edition 22",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-97-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-97-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 98,
-        "name": "R0LEX Luxury Edition 23",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-98-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-98-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 99,
-        "name": "R0LEX Luxury Edition 24",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-99-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-99-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 100,
-        "name": "R0LEX Luxury Edition 25",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-100-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-100-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 101,
-        "name": "R0LEX Luxury Edition 26",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-101-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-101-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 102,
-        "name": "R0LEX Luxury Edition 27",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-102-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-102-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 103,
-        "name": "R0LEX Luxury Edition 28",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-103-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-103-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 104,
-        "name": "R0LEX Luxury Edition 29",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-104-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-104-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 105,
-        "name": "R0LEX Luxury Edition 30",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-105-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-105-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 106,
-        "name": "R0LEX Luxury Edition 31",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-106-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-106-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 107,
-        "name": "R0LEX Luxury Edition 32",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-107-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-107-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 108,
-        "name": "R0LEX Luxury Edition 33",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-108-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-108-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 109,
-        "name": "R0LEX Luxury Edition 34",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-109-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-109-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 110,
-        "name": "R0LEX Luxury Edition 35",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-110-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-110-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 111,
-        "name": "R0LEX Luxury Edition 36",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-111-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-111-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 112,
-        "name": "R0LEX Luxury Edition 37",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-112-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-112-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 113,
-        "name": "R0LEX Luxury Edition 38",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-113-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-113-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 114,
-        "name": "R0LEX Luxury Edition 39",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-114-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-114-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 115,
-        "name": "R0LEX Luxury Edition 40",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-115-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-115-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 116,
-        "name": "R0LEX Luxury Edition 41",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-116-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-116-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 117,
-        "name": "R0LEX Luxury Edition 42",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-117-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-117-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 118,
-        "name": "R0LEX Luxury Edition 43",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-118-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-118-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 119,
-        "name": "R0LEX Luxury Edition 44",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-119-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-119-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 120,
-        "name": "R0LEX Luxury Edition 45",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-120-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-120-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     }
 ];
-;
-;
 
 function renderProducts(filteredProducts) {
     const productGrid = document.getElementById('productGrid');
@@ -1267,10 +875,12 @@ function renderProducts(filteredProducts) {
         // Show indicator if multiple images exist
         const hasMultiple = product.images && product.images.length > 1;
         const badgeHTML = hasMultiple ? `<span class="multi-img-badge">${product.images.length} Images</span>` : '';
-        
+
+        // Canceled price strikethrough
         const canceledHTML = product.canceledPrice
             ? `<span style="text-decoration:line-through;color:#888;font-size:0.85em;margin-right:5px;">${product.canceledPrice}</span>`
             : '';
+        
         card.innerHTML = `
             <div class="product-image-container">
                 ${badgeHTML}

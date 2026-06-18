@@ -1,410 +1,272 @@
 [
-    {
-        "id": 1,
-        "name": "carrtier Luxury Edition 1",
-        "brand": "CARRTIER",
-        "price": "₹1500",
-        "image": "assets/images/brands/CARTIER/cartier-1.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 2,
-        "name": "carrtier Luxury Edition 2",
-        "brand": "CARRTIER",
-        "price": "₹1500",
-        "image": "assets/images/brands/CARTIER/cartier-2.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 3,
-        "name": "carrtier Luxury Edition 3",
-        "brand": "CARRTIER",
-        "price": "₹1500",
-        "image": "assets/images/brands/CARTIER/cartier-3.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 4,
-        "name": "carrtier Luxury Edition 4",
-        "brand": "CARRTIER",
-        "price": "₹3200",
-        "image": "assets/images/brands/CARTIER/cartier-4.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 5,
-        "name": "carrtier Luxury Edition 5",
-        "brand": "CARRTIER",
-        "price": "₹1650",
-        "image": "assets/images/brands/CARTIER/cartier-5.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this carrtier timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 6,
-        "name": "casi0 Luxury Edition 1",
-        "brand": "CASI0",
-        "price": "₹700",
-        "image": "assets/images/brands/CASIO/casio-1.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this casi0 timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 7,
-        "name": "casi0 Luxury Edition 2",
-        "brand": "CASI0",
-        "price": "₹700",
-        "image": "assets/images/brands/CASIO/casio-2.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this casi0 timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 8,
-        "name": "casi0 Luxury Edition 3",
-        "brand": "CASI0",
-        "price": "₹1000",
-        "image": "assets/images/brands/CASIO/casio-3.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this casi0 timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 9,
-        "name": "G-sh0k Luxury Edition 1",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-1.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 10,
-        "name": "G-sh0k Luxury Edition 2",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-2.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 11,
-        "name": "G-sh0k Luxury Edition 3",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-3.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 12,
-        "name": "G-sh0k Luxury Edition 4",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-4.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 13,
-        "name": "G-sh0k Luxury Edition 5",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-5.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 14,
-        "name": "G-sh0k Luxury Edition 6",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-6.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 15,
-        "name": "G-sh0k Luxury Edition 7",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-7.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 16,
-        "name": "G-sh0k Luxury Edition 8",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-8.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 17,
-        "name": "G-sh0k Luxury Edition 9",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-9.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 18,
-        "name": "G-sh0k Luxury Edition 10",
-        "brand": "G-SH0K",
-        "price": "₹2000",
-        "image": "assets/images/brands/GSHOCK/gshock-10.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this G-sh0k timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 19,
-        "name": "HUBl0T Luxury Edition 1",
-        "brand": "HUBl0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-1.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 20,
-        "name": "HUBl0T Luxury Edition 2",
-        "brand": "HUBl0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-2.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 21,
-        "name": "HUBl0T Luxury Edition 3",
-        "brand": "HUBl0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-3.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 22,
-        "name": "HUBl0T Luxury Edition 4",
-        "brand": "HUBl0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-4.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 23,
-        "name": "HUBl0T Luxury Edition 5",
-        "brand": "HUBl0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-5.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 24,
-        "name": "HUBl0T Luxury Edition 6",
-        "brand": "HUBl0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-6.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 25,
-        "name": "HUBl0T Luxury Edition 7",
-        "brand": "HUBl0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-7.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 26,
-        "name": "HUBl0T Luxury Edition 8",
-        "brand": "HUBl0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/HUBLOT/hublot-8.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this HUBl0T timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 27,
-        "name": "00mega Luxury Edition 1",
-        "brand": "00MEGA",
-        "price": "₹1350",
-        "image": "assets/images/brands/OMEGA/omega-1.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 28,
-        "name": "00mega Luxury Edition 2",
-        "brand": "00MEGA",
-        "price": "₹1999",
-        "image": "assets/images/brands/OMEGA/omega-2.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 29,
-        "name": "00mega Luxury Edition 3",
-        "brand": "00MEGA",
-        "price": "₹3400",
-        "image": "assets/images/brands/OMEGA/omega-3.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 30,
-        "name": "00mega Luxury Edition 4",
-        "brand": "00MEGA",
-        "price": "₹1350",
-        "image": "assets/images/brands/OMEGA/omega-4.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 31,
-        "name": "00mega Luxury Edition 5",
-        "brand": "00MEGA",
-        "price": "₹1500",
-        "image": "assets/images/brands/OMEGA/omega-5.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 32,
-        "name": "00mega Luxury Edition 6",
-        "brand": "00MEGA",
-        "price": "₹1350",
-        "image": "assets/images/brands/OMEGA/omega-6.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this 00mega timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 33,
-        "name": "R0lex Luxury Edition 1",
-        "brand": "R0LEX",
-        "price": "₹1300",
-        "image": "assets/images/brands/ROLEX/rolex-1.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 34,
-        "name": "R0lex Luxury Edition 2",
-        "brand": "R0LEX",
-        "price": "₹1300",
-        "image": "assets/images/brands/ROLEX/rolex-2.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 35,
-        "name": "R0lex Luxury Edition 3",
-        "brand": "R0LEX",
-        "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-3.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 36,
-        "name": "R0lex Luxury Edition 4",
-        "brand": "R0LEX",
-        "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-4.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 37,
-        "name": "R0lex Luxury Edition 5",
-        "brand": "R0LEX",
-        "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-5.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 38,
-        "name": "R0lex Luxury Edition 6",
-        "brand": "R0LEX",
-        "price": "₹1800",
-        "image": "assets/images/brands/ROLEX/rolex-6.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 39,
-        "name": "R0lex Luxury Edition 7",
-        "brand": "R0LEX",
-        "price": "₹1300",
-        "image": "assets/images/brands/ROLEX/rolex-7.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 40,
-        "name": "R0lex Luxury Edition 8",
-        "brand": "R0LEX",
-        "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-8.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 41,
-        "name": "R0lex Luxury Edition 9",
-        "brand": "R0LEX",
-        "price": "₹1600",
-        "image": "assets/images/brands/ROLEX/rolex-9.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 42,
-        "name": "R0lex Luxury Edition 10",
-        "brand": "R0LEX",
-        "price": "₹1700",
-        "image": "assets/images/brands/ROLEX/rolex-10.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 43,
-        "name": "R0lex Luxury Edition 11",
-        "brand": "R0LEX",
-        "price": "₹1900",
-        "image": "assets/images/brands/ROLEX/rolex-11.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 44,
-        "name": "R0lex Luxury Edition 12",
-        "brand": "R0LEX",
-        "price": "₹1600",
-        "image": "assets/images/brands/ROLEX/rolex-12.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 45,
-        "name": "R0lex Luxury Edition 13",
-        "brand": "R0LEX",
-        "price": "₹1500",
-        "image": "assets/images/brands/ROLEX/rolex-13.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this R0lex timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 46,
-        "name": "Tisot Luxury Edition 1",
-        "brand": "TISS0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-1.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 47,
-        "name": "Tisot Luxury Edition 2",
-        "brand": "TISS0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-2.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 48,
-        "name": "Tisot Luxury Edition 3",
-        "brand": "TISS0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-3.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 49,
-        "name": "Tisot Luxury Edition 4",
-        "brand": "TISS0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-4.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 50,
-        "name": "Tisot Luxury Edition 5",
-        "brand": "TISS0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-5.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 51,
-        "name": "Tisot Luxury Edition 6",
-        "brand": "TISS0T",
-        "price": "₹2000",
-        "image": "assets/images/brands/TISOT/tisot-6.jpeg",
-        "description": "Experience the pinnacle of craftsmanship with this Tisot timepiece. A perfect blend of style and precision."
-    }
+  {
+    "id": 1,
+    "name": "R0LEX Luxury Edition 14",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1JzLTBVJYFqiEw_yGgukMFHEo1FoLNrZI",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "name": "R0LEX Luxury Edition 15",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1La2qPy_egm2ThOlnKLlqAE2NKeXyp0uz",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "R0LEX Luxury Edition 16",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1s00MRkF0C2emCULanc8iSbydmTc-yMd5",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "name": "R0LEX Luxury Edition 17",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1tyYQbcO9PH6at0QtA3m1-VXZd5JDZnZn",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "name": "R0LEX Luxury Edition 18",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=16NgYYfaCL1uD9svPSCR-1GITJyWni3lQ",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "R0LEX Luxury Edition 19",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1C9xpv_VRxWK1-OXSOk7ANzeHnKDyDbHn",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "R0LEX Luxury Edition 20",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1tlktXTcpGN0eDjLZrnIK8QZmH3K7j6hk",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "name": "R0LEX Luxury Edition 21",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=12HUwNKMXP3oWwoyIfxy6OUuHp9O7Gf2H",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "name": "R0LEX Luxury Edition 22",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1J3AY58VXAkCUfzWp6RmGoTFVeVu2oT4T",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "name": "R0LEX Luxury Edition 23",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1c3JF-7c22dmNvIIpepu4lf0SXmeTkULD",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "name": "R0LEX Luxury Edition 24",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=11gZEDK1Uw4tTGuJPZ1EDxe6EB8FTlD6F",
+    "description": ""
+  },
+  {
+    "id": 12,
+    "name": "R0LEX Luxury Edition 25",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1FHADKlYQLnBDXC53RFRXnhJHTvSw7cO1",
+    "description": ""
+  },
+  {
+    "id": 13,
+    "name": "R0LEX Luxury Edition 26",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1150",
+    "image": "https://drive.google.com/uc?export=view&id=1crwhce4tz4pCeDLu5dtyllfBMfcjgVmm",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "name": "R0LEX Luxury Edition 27",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1Mq8FUJMLcx8R-uJ_6Kp7NEqOJvoIUkNr",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "name": "R0LEX Luxury Edition 28",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1ZNeEh4G251jbmsSLymeVbbKpLbN-2coA",
+    "description": ""
+  },
+  {
+    "id": 16,
+    "name": "R0LEX Luxury Edition 29",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1BQUMj9F_WA5nmITsO55h2CMaknCQJfN3",
+    "description": ""
+  },
+  {
+    "id": 17,
+    "name": "R0LEX Luxury Edition 30",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1grNRmlF4CYgMNArwY-o9X2eTmI5jbuk6",
+    "description": ""
+  },
+  {
+    "id": 18,
+    "name": "R0LEX Luxury Edition 31",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1tbrDAv2y1QOE-WFO75z_eHxOy5H1rvmO",
+    "description": ""
+  },
+  {
+    "id": 19,
+    "name": "R0LEX Luxury Edition 32",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=172YnlLJQjkFdxItIJEQ5Apr3TmfQJ8Sh",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "name": "R0LEX Luxury Edition 33",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1Mkq2_mqGU1PitQ_lMMVdyfeQ3eAOps1W",
+    "description": ""
+  },
+  {
+    "id": 21,
+    "name": "R0LEX Luxury Edition 34",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1zK96nSl8ta_DA8A28x_EK0S8oD6b375G",
+    "description": ""
+  },
+  {
+    "id": 22,
+    "name": "R0LEX Luxury Edition 35",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=11WEZoae6Tzcgu1MR4KrQIe5Y8bImHX5q",
+    "description": ""
+  },
+  {
+    "id": 23,
+    "name": "R0LEX Luxury Edition 36",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1HPxniKySE5STmyCGykBrRt2xdXileBso",
+    "description": ""
+  },
+  {
+    "id": 24,
+    "name": "R0LEX Luxury Edition 37",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1cAEr8YcfyWGI6wcGmmiHCdQkfB0Albyp",
+    "description": ""
+  },
+  {
+    "id": 25,
+    "name": "R0LEX Luxury Edition 38",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1lfqEOzniKePO2m4vi3pmR3DZac6-kw8d",
+    "description": ""
+  },
+  {
+    "id": 26,
+    "name": "R0LEX Luxury Edition 39",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1GD2hldFEQGS7iewLsQTZulq3FY-rVbgj",
+    "description": ""
+  },
+  {
+    "id": 27,
+    "name": "R0LEX Luxury Edition 40",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1IOjKzklCJ7PvJ4-c-pV3JXEaYNBKbs-l",
+    "description": ""
+  },
+  {
+    "id": 28,
+    "name": "R0LEX Luxury Edition 41",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1OdhDsAM0mgzsCxDYObmFjb7G7hJa1phY",
+    "description": ""
+  },
+  {
+    "id": 29,
+    "name": "R0LEX Luxury Edition 42",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1-VkQHISAMqcyGQaOvR_d1bVs1h63Q1Ig",
+    "description": ""
+  },
+  {
+    "id": 30,
+    "name": "R0LEX Luxury Edition 43",
+    "brand": "R0lex",
+    "canceledPrice": "₹1500",
+    "price": "₹1000",
+    "image": "https://drive.google.com/uc?export=view&id=1aKxQCC50peBRId65TJWq75OcYydCxOx_",
+    "description": ""
+  }
 ]

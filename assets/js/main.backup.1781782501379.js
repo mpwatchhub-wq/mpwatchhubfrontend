@@ -863,9 +863,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-91-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-91-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-91-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-91-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -876,9 +876,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-92-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-92-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-92-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-92-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -889,9 +889,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-93-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-93-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-93-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-93-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -902,9 +902,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-94-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-94-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-94-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-94-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -915,9 +915,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-95-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-95-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-95-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-95-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -928,9 +928,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-96-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-96-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-96-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-96-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -941,9 +941,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-97-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-97-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-97-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-97-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -954,9 +954,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-98-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-98-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-98-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-98-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -967,9 +967,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-99-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-99-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-99-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-99-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -980,9 +980,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-100-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-100-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-100-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-100-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -993,9 +993,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1150",
-        "image": "assets/images/brands/ROLEX/rolex-101-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-101-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-101-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-101-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1006,9 +1006,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-102-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-102-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-102-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-102-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1019,9 +1019,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-103-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-103-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-103-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-103-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1032,9 +1032,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-104-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-104-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-104-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-104-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1045,9 +1045,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-105-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-105-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-105-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-105-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1058,9 +1058,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-106-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-106-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-106-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-106-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1071,9 +1071,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-107-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-107-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-107-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-107-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1084,9 +1084,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-108-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-108-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-108-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-108-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1097,9 +1097,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-109-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-109-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-109-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-109-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1110,9 +1110,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-110-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-110-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-110-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-110-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1123,9 +1123,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-111-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-111-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-111-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-111-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1136,9 +1136,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-112-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-112-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-112-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-112-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1149,9 +1149,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-113-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-113-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-113-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-113-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1162,9 +1162,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-114-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-114-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-114-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-114-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1175,9 +1175,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-115-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-115-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-115-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-115-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1188,9 +1188,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-116-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-116-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-116-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-116-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1201,9 +1201,9 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-117-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-117-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-117-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-117-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     },
@@ -1214,40 +1214,13 @@ const products = [
         "category": "watch",
         "canceledPrice": "₹1500",
         "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-118-1.jpeg",
+        "image": "assets/images/brands/R0LEX/rolex-118-1.jpeg",
         "images": [
-            "assets/images/brands/ROLEX/rolex-118-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 119,
-        "name": "R0LEX Luxury Edition 44",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-119-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-119-1.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 120,
-        "name": "R0LEX Luxury Edition 45",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹1500",
-        "price": "₹1000",
-        "image": "assets/images/brands/ROLEX/rolex-120-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-120-1.jpeg"
+            "assets/images/brands/R0LEX/rolex-118-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
     }
 ];
-;
 ;
 
 function renderProducts(filteredProducts) {

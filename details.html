@@ -135,7 +135,7 @@
                     <div class="details-info">
                         <span class="details-brand">${product.brand}</span>
                         <h1>${product.name}</h1>
-                        <p class="details-price">${product.price}</p>
+                        <p class="details-price">${product.canceledPrice ? `<span style="text-decoration:line-through;color:#888;font-size:0.7em;margin-right:10px;font-weight:400;">${product.canceledPrice}</span>` : ''}${product.price}</p>
                         <p class="details-desc">${product.description}</p>
                         
                         <div style="display: flex; flex-direction: column; gap: 15px; margin-top: 25px;">

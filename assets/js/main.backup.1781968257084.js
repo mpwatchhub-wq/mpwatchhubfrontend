@@ -756,8 +756,7 @@ const products = [
         "image": "assets/images/sunglasses/MIUMIU/miumiu-82-1.jpeg",
         "images": [
             "assets/images/sunglasses/MIUMIU/miumiu-82-1.jpeg",
-            "assets/images/sunglasses/MIUMIU/miumiu-82-2.jpeg",
-            "assets/images/sunglasses/MIUMIU/miumiu-82-3.jpeg"
+            "assets/images/sunglasses/MIUMIU/miumiu-82-2.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this MEW MEW sunglasses. A perfect blend of style and precision."
     },
@@ -781,11 +780,7 @@ const products = [
         "price": "₹700",
         "image": "assets/images/sunglasses/RAY BAN/ray-ban-84-1.jpeg",
         "images": [
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-1.jpeg",
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-2.jpeg",
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-3.jpeg",
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-4.jpeg",
-            "assets/images/sunglasses/RAY BAN/ray-ban-84-5.jpeg"
+            "assets/images/sunglasses/RAY BAN/ray-ban-84-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this REYBAN sunglasses. A perfect blend of style and precision."
     },
@@ -1250,26 +1245,8 @@ const products = [
             "assets/images/brands/ROLEX/rolex-120-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this R0LEX timepiece. A perfect blend of style and precision."
-    },
-    {
-        "id": 121,
-        "name": "seiko luxury edition 1",
-        "brand": "SEIK0",
-        "category": "watch",
-        "canceledPrice": "₹2000",
-        "price": "₹1100",
-        "image": "assets/images/brands/SEIKO/seiko-121-1.jpeg",
-        "images": [
-            "assets/images/brands/SEIKO/seiko-121-1.jpeg",
-            "assets/images/brands/SEIKO/seiko-121-2.jpeg",
-            "assets/images/brands/SEIKO/seiko-121-3.jpeg"
-        ],
-        "description": "Experience the pinnacle of craftsmanship with this SEIK0 timepiece. A perfect blend of style and precision."
     }
 ];
-;
-;
-;
 ;
 ;
 

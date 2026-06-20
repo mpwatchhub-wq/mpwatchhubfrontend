@@ -1260,14 +1260,11 @@ const products = [
         "price": "₹1100",
         "image": "assets/images/brands/SEIKO/seiko-121-1.jpeg",
         "images": [
-            "assets/images/brands/SEIKO/seiko-121-1.jpeg",
-            "assets/images/brands/SEIKO/seiko-121-2.jpeg",
-            "assets/images/brands/SEIKO/seiko-121-3.jpeg"
+            "assets/images/brands/SEIKO/seiko-121-1.jpeg"
         ],
         "description": "Experience the pinnacle of craftsmanship with this SEIK0 timepiece. A perfect blend of style and precision."
     }
 ];
-;
 ;
 ;
 ;

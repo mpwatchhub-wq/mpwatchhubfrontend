@@ -1365,6 +1365,7 @@ window.selectBrandInFilter = function(brandName) {
 function handleHashChange() {
     const hash = window.location.hash || '#home';
     const carouselWrapper = document.querySelector('.hero-carousel-wrapper');
+    const hotDealsSection = document.querySelector('.hot-deals-section');
     const sunglassesHero = document.getElementById('sunglassesHero');
     const watchFilters = document.getElementById('watchFiltersWrapper');
     const sunglassesFilters = document.getElementById('sunglassesFiltersWrapper');
@@ -1375,7 +1376,7 @@ function handleHashChange() {
     navLinks.forEach(link => {
         link.classList.remove('active');
         const href = link.getAttribute('href');
-        if (hash === '#bestseller' && href && href.includes('#bestseller')) link.classList.add('active');
+        if (hash === '#perfumes' && href && href.includes('#perfumes')) link.classList.add('active');
         else if (hash === '#sunglasses' && href && href.includes('#sunglasses')) link.classList.add('active');
         else if ((hash === '#home' || hash === '') && href && (href === 'index.html' || href === '#home' || href === '')) link.classList.add('active');
     });
@@ -1389,27 +1390,28 @@ function handleHashChange() {
     if (sortWatch) sortWatch.value = 'default';
     if (sortSunglasses) sortSunglasses.value = 'default';
     
-    if (hash === '#bestseller') {
+    if (hash === '#perfumes') {
         if (carouselWrapper) carouselWrapper.style.display = 'none';
+        if (hotDealsSection) hotDealsSection.style.display = 'none';
         if (sunglassesHero) sunglassesHero.style.display = 'none';
         if (watchFilters) watchFilters.style.display = 'none';
         if (sunglassesFilters) sunglassesFilters.style.display = 'none';
         
-        // Define some bestsellers from old items + new sunglasses
-        const bestSellerIds = [8, 18, 38, 44, 5, 53, 54];
-        const bestSellers = products.filter(p => bestSellerIds.includes(p.id));
-        if (productGrid) renderProducts(bestSellers);
+        // Keep it empty for now
+        if (productGrid) renderProducts([]);
         
         const productsSection = document.getElementById('products');
         if (productsSection) productsSection.scrollIntoView({ behavior: 'smooth' });
     } else if (hash === '#sunglasses') {
         if (carouselWrapper) carouselWrapper.style.display = 'none';
+        if (hotDealsSection) hotDealsSection.style.display = 'none';
         if (sunglassesHero) sunglassesHero.style.display = 'flex';
         if (watchFilters) watchFilters.style.display = 'none';
         if (sunglassesFilters) sunglassesFilters.style.display = '';
         if (productGrid) filterProducts();
     } else {
         if (carouselWrapper) carouselWrapper.style.display = '';
+        if (hotDealsSection) hotDealsSection.style.display = '';
         if (sunglassesHero) sunglassesHero.style.display = 'none';
         if (watchFilters) watchFilters.style.display = '';
         if (sunglassesFilters) sunglassesFilters.style.display = 'none';

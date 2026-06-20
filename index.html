@@ -64,7 +64,7 @@
         <ul class="nav-links">
             <li><a href="index.html" class="active">Home</a></li>
             <li><a href="#sunglasses">Sunglasses</a></li>
-            <li><a href="#bestseller">Best Seller</a></li>
+            <li><a href="#perfumes">Perfumes</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="contact.html">Contact</a></li>
         </ul>
@@ -195,6 +195,37 @@
         
     </section>
 
+    <!-- Hot Deals Carousel Section -->
+    <section class="hot-deals-section">
+        <h2 class="hot-deals-title">Hot Deals</h2>
+        <div class="hot-deals-carousel">
+            <div class="hot-deals-container" id="hotDealsContainer">
+                <!-- Slide 1 -->
+                <div class="hot-deal-slide active">
+                    <img src="assets/images/IMG_4915.jpg" alt="Hot Deal Product 1" class="hot-deal-img">
+                    <a href="details.html?id=watch_rolex_cosmograph_daytona" class="btn-hot-deal-shop">Shop Now</a>
+                </div>
+                <!-- Slide 2 -->
+                <div class="hot-deal-slide">
+                    <img src="assets/images/IMG_4919.jpg" alt="Hot Deal Product 2" class="hot-deal-img">
+                    <a href="details.html?id=watch_omega_speedmaster_racing" class="btn-hot-deal-shop">Shop Now</a>
+                </div>
+                <!-- Slide 3 -->
+                <div class="hot-deal-slide">
+                    <img src="assets/images/IMG_4917.jpg" alt="Hot Deal Product 3" class="hot-deal-img">
+                    <a href="details.html?id=watch_cartier_santos_de_cartier" class="btn-hot-deal-shop">Shop Now</a>
+                </div>
+            </div>
+            
+            <!-- Indicators -->
+            <div class="hot-deals-indicators" id="hotDealsIndicators">
+                <span class="hot-dot active" onclick="goToHotDealSlide(0)"></span>
+                <span class="hot-dot" onclick="goToHotDealSlide(1)"></span>
+                <span class="hot-dot" onclick="goToHotDealSlide(2)"></span>
+            </div>
+        </div>
+    </section>
+
     <section id="sunglassesHero" class="sunglasses-hero-banner" style="display: none;">
         <div class="sunglasses-hero-content">
             <h1>MP SUNGLASSES</h1>
@@ -285,7 +316,7 @@
                 <h3>Quick Links</h3>
                 <a href="index.html">Home</a>
                 <a href="#sunglasses">Sunglasses</a>
-                <a href="#bestseller">Best Seller</a>
+                <a href="#perfumes">Perfumes</a>
                 <a href="about.html">About Us</a>
                 <a href="contact.html">Contact Us</a>
             </div>
@@ -304,5 +335,123 @@
 
     <script src="assets/js/main.js"></script>
     <script src="assets/js/carousel.js"></script>
+    <script>
+        // Hot Deals Carousel Auto Transition and Navigation
+        (function() {
+            let currentSlide = 0;
+            const slides = document.querySelectorAll('.hot-deal-slide');
+            const dots = document.querySelectorAll('.hot-dot');
+            const totalSlides = slides.length;
+            let autoSlideInterval;
+
+            function goToHotDealSlide(index) {
+                if (totalSlides === 0) return;
+                
+                // Keep index in range
+                currentSlide = (index + totalSlides) % totalSlides;
+
+                // Update slides active state
+                slides.forEach((slide, idx) => {
+                    if (idx === currentSlide) {
+                        slide.classList.add('active');
+                    } else {
+                        slide.classList.remove('active');
+                    }
+                });
+
+                // Update dots active state
+                dots.forEach((dot, idx) => {
+                    if (idx === currentSlide) {
+                        dot.classList.add('active');
+                    } else {
+                        dot.classList.remove('active');
+                    }
+                });
+            }
+
+            // Expose function globally for the onclick handlers
+            window.goToHotDealSlide = function(index) {
+                goToHotDealSlide(index);
+                resetAutoSlide();
+            };
+
+            function startAutoSlide() {
+                autoSlideInterval = setInterval(() => {
+                    goToHotDealSlide(currentSlide + 1);
+                }, 5000); // Auto-transition every 5 seconds
+            }
+
+            function stopAutoSlide() {
+                clearInterval(autoSlideInterval);
+            }
+
+            function resetAutoSlide() {
+                stopAutoSlide();
+                startAutoSlide();
+            }
+
+            // Swipe Support (Touch and Mouse Drag)
+            let touchStartX = 0;
+            let touchEndX = 0;
+            const threshold = 50; // minimum distance in px to trigger swipe
+            const carouselElement = document.querySelector('.hot-deals-carousel');
+
+            if (carouselElement) {
+                carouselElement.style.cursor = 'grab';
+
+                // Touch Events
+                carouselElement.addEventListener('touchstart', (e) => {
+                    touchStartX = e.changedTouches[0].screenX;
+                    stopAutoSlide();
+                }, { passive: true });
+
+                carouselElement.addEventListener('touchend', (e) => {
+                    touchEndX = e.changedTouches[0].screenX;
+                    handleSwipe();
+                    startAutoSlide();
+                }, { passive: true });
+
+                // Mouse Events
+                let isMouseDown = false;
+                carouselElement.addEventListener('mousedown', (e) => {
+                    touchStartX = e.screenX;
+                    isMouseDown = true;
+                    carouselElement.style.cursor = 'grabbing';
+                    stopAutoSlide();
+                });
+
+                carouselElement.addEventListener('mouseup', (e) => {
+                    if (!isMouseDown) return;
+                    touchEndX = e.screenX;
+                    isMouseDown = false;
+                    carouselElement.style.cursor = 'grab';
+                    handleSwipe();
+                    startAutoSlide();
+                });
+
+                carouselElement.addEventListener('mouseleave', () => {
+                    if (isMouseDown) {
+                        isMouseDown = false;
+                        carouselElement.style.cursor = 'grab';
+                        startAutoSlide();
+                    }
+                });
+            }
+
+            function handleSwipe() {
+                const diff = touchStartX - touchEndX;
+                if (Math.abs(diff) > threshold) {
+                    if (diff > 0) {
+                        goToHotDealSlide(currentSlide + 1); // Swiped Left -> Next
+                    } else {
+                        goToHotDealSlide(currentSlide - 1); // Swiped Right -> Prev
+                    }
+                }
+            }
+
+            // Start auto transitions
+            startAutoSlide();
+        })();
+    </script>
 </body>
 </html>

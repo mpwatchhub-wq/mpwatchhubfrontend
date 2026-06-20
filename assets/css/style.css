@@ -1366,8 +1366,8 @@ footer {
 
 .btn-hot-deal-shop {
     position: absolute;
-    bottom: 30px;
-    left: 50%;
+    bottom: 100px;
+    right:50%;
     transform: translateX(-50%);
     z-index: 10;
     background: linear-gradient(135deg, var(--primary-red), var(--dark-red));

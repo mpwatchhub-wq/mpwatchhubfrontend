@@ -1339,13 +1339,9 @@ function renderProducts(filteredProducts) {
 
 function filterProducts() {
     const hash = window.location.hash;
-    let category = 'watch';
-    if (hash === '#sunglasses') category = 'sunglasses';
-    else if (hash === '#perfumes') category = 'perfumes';
+    const category = (hash === '#sunglasses') ? 'sunglasses' : 'watch';
     
-    let containerId = '#watchFiltersContainer';
-    if (category === 'sunglasses') containerId = '#sunglassesFiltersContainer';
-    else if (category === 'perfumes') containerId = '#perfumesFiltersContainer';
+    const containerId = (category === 'sunglasses') ? '#sunglassesFiltersContainer' : '#watchFiltersContainer';
     const selectedBrands = Array.from(document.querySelectorAll(`${containerId} .brand-filter:checked`)).map(cb => cb.value);
     
     let filtered = products.filter(p => p.category === category || (!p.category && category === 'watch'));
@@ -1354,9 +1350,8 @@ function filterProducts() {
         filtered = filtered.filter(p => selectedBrands.includes(p.brand));
     }
     
-    let sortSelectId = 'sortPriceWatch';
-    if (category === 'sunglasses') sortSelectId = 'sortPriceSunglasses';
-    else if (category === 'perfumes') sortSelectId = 'sortPricePerfumes';
+    // Sort logic
+    const sortSelectId = (category === 'sunglasses') ? 'sortPriceSunglasses' : 'sortPriceWatch';
     const sortSelect = document.getElementById(sortSelectId);
     const sortVal = sortSelect ? sortSelect.value : 'default';
     
@@ -1373,9 +1368,11 @@ function filterProducts() {
             return priceB - priceA;
         });
     } else {
+        // Default sorting: products with multiple images at top, shuffle lower products randomly
         let multiImg = filtered.filter(p => p.images && p.images.length > 1);
         let singleImg = filtered.filter(p => !p.images || p.images.length <= 1);
         
+        // Fisher-Yates shuffle for single image products
         for (let i = singleImg.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [singleImg[i], singleImg[j]] = [singleImg[j], singleImg[i]];
@@ -1420,12 +1417,11 @@ function handleHashChange() {
     const carouselWrapper = document.querySelector('.hero-carousel-wrapper');
     const hotDealsSection = document.querySelector('.hot-deals-section');
     const sunglassesHero = document.getElementById('sunglassesHero');
-    const perfumesHero = document.getElementById('perfumesHero');
     const watchFilters = document.getElementById('watchFiltersWrapper');
     const sunglassesFilters = document.getElementById('sunglassesFiltersWrapper');
-    const perfumesFilters = document.getElementById('perfumesFiltersWrapper');
     const productGrid = document.getElementById('productGrid');
     
+    // Update active state in navigation
     const navLinks = document.querySelectorAll('.nav-links a');
     navLinks.forEach(link => {
         link.classList.remove('active');
@@ -1435,43 +1431,40 @@ function handleHashChange() {
         else if ((hash === '#home' || hash === '') && href && (href === 'index.html' || href === '#home' || href === '')) link.classList.add('active');
     });
     
+    // Reset filters
     document.querySelectorAll('.brand-filter').forEach(cb => cb.checked = false);
     
+    // Reset sort select dropdowns
     const sortWatch = document.getElementById('sortPriceWatch');
     const sortSunglasses = document.getElementById('sortPriceSunglasses');
-    const sortPerfumes = document.getElementById('sortPricePerfumes');
     if (sortWatch) sortWatch.value = 'default';
     if (sortSunglasses) sortSunglasses.value = 'default';
-    if (sortPerfumes) sortPerfumes.value = 'default';
     
     if (hash === '#perfumes') {
         if (carouselWrapper) carouselWrapper.style.display = 'none';
         if (hotDealsSection) hotDealsSection.style.display = 'none';
         if (sunglassesHero) sunglassesHero.style.display = 'none';
-        if (perfumesHero) perfumesHero.style.display = 'flex';
         if (watchFilters) watchFilters.style.display = 'none';
         if (sunglassesFilters) sunglassesFilters.style.display = 'none';
-        if (perfumesFilters) perfumesFilters.style.display = '';
-        if (productGrid) filterProducts();
+        
+        // Keep it empty for now
+        if (productGrid) renderProducts([]);
+        
         const productsSection = document.getElementById('products');
         if (productsSection) productsSection.scrollIntoView({ behavior: 'smooth' });
     } else if (hash === '#sunglasses') {
         if (carouselWrapper) carouselWrapper.style.display = 'none';
         if (hotDealsSection) hotDealsSection.style.display = 'none';
         if (sunglassesHero) sunglassesHero.style.display = 'flex';
-        if (perfumesHero) perfumesHero.style.display = 'none';
         if (watchFilters) watchFilters.style.display = 'none';
         if (sunglassesFilters) sunglassesFilters.style.display = '';
-        if (perfumesFilters) perfumesFilters.style.display = 'none';
         if (productGrid) filterProducts();
     } else {
         if (carouselWrapper) carouselWrapper.style.display = '';
         if (hotDealsSection) hotDealsSection.style.display = '';
         if (sunglassesHero) sunglassesHero.style.display = 'none';
-        if (perfumesHero) perfumesHero.style.display = 'none';
         if (watchFilters) watchFilters.style.display = '';
         if (sunglassesFilters) sunglassesFilters.style.display = 'none';
-        if (perfumesFilters) perfumesFilters.style.display = 'none';
         if (productGrid) filterProducts();
     }
 }

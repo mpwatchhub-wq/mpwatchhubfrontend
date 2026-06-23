@@ -1297,8 +1297,8 @@ const products = [
         "name": "HAVAS ICE BY RASSAASI 100 ML",
         "brand": "PERFUME",
         "category": "perfumes",
-        "canceledPrice": "₹3500",
-        "price": "₹2500",
+        "canceledPrice": "₹4500",
+        "price": "₹3700",
         "image": "assets/images/perfumes/perfume-126-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-126-1.jpeg"
@@ -1311,7 +1311,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹6000",
-        "price": "₹3200",
+        "price": "₹3700",
         "image": "assets/images/perfumes/perfume-127-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-127-1.jpeg"
@@ -1324,7 +1324,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹6000",
-        "price": "₹3200",
+        "price": "₹4000",
         "image": "assets/images/perfumes/perfume-128-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-128-1.jpeg"
@@ -1376,7 +1376,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹4000",
-        "price": "₹2300",
+        "price": "₹2800",
         "image": "assets/images/perfumes/perfume-132-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-132-1.jpeg"
@@ -1402,7 +1402,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹4000",
-        "price": "₹3000",
+        "price": "₹3500",
         "image": "assets/images/perfumes/perfume-134-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-134-1.jpeg"
@@ -1415,7 +1415,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹4000",
-        "price": "₹2800",
+        "price": "₹3500",
         "image": "assets/images/perfumes/perfume-135-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-135-1.jpeg"
@@ -1428,7 +1428,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹7000",
-        "price": "₹3500",
+        "price": "₹4000",
         "image": "assets/images/perfumes/perfume-136-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-136-1.jpeg"
@@ -1454,7 +1454,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹6000",
-        "price": "₹3000",
+        "price": "₹3400",
         "image": "assets/images/perfumes/9PMELIXIR.jpeg",
         "images": [
             "assets/images/perfumes/9PMELIXIR.jpeg"

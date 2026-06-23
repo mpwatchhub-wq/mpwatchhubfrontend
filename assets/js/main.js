@@ -1337,7 +1337,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹6000",
-        "price": "₹3000",
+        "price": "₹3350",
         "image": "assets/images/perfumes/perfume-129-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-129-1.jpeg"
@@ -1389,7 +1389,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹6000",
-        "price": "₹3200",
+        "price": "₹4999",
         "image": "assets/images/perfumes/perfume-133-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-133-1.jpeg"

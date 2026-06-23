@@ -1434,50 +1434,8 @@ const products = [
             "assets/images/perfumes/perfume-136-1.jpeg"
         ],
         "description": ""
-    },
-    {
-        "id": 135,
-        "name": "IBRAHQ GREEK TOBACCO",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹6000",
-        "price": "₹4000",
-        "image": "assets/images/perfumes/IBRAQGREEKTOBACO.jpeg",
-        "images": [
-            "assets/images/perfumes/IBRAQGREEKTOBACO.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 136,
-        "name": "AFNAANN 9PM ELIXIR",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹6000",
-        "price": "₹3000",
-        "image": "assets/images/perfumes/9PMELIXIR.jpeg",
-        "images": [
-            "assets/images/perfumes/9PMELIXIR.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 137,
-        "name": "LATAFAAH ASAD",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹5000",
-        "price": "₹3200",
-        "image": "assets/images/perfumes/perfume-137-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-137-1.jpeg"
-        ],
-        "description": ""
     }
 ];
-;
-;
-;
 ;
 ;
 ;

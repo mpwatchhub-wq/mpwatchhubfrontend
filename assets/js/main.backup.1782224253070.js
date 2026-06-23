@@ -1268,220 +1268,31 @@ const products = [
     },
     {
         "id": 122,
-        "name": "HAVAS FOR HIM RASSAASI 100 ML",
+        "name": "HAVAS FOR HIM RASSAASI",
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹3500",
         "price": "₹2500",
-        "image": "assets/images/perfumes/perfume-124-1.jpeg",
+        "image": "assets/images/perfumes/perfume-122-1.jpeg",
         "images": [
-            "assets/images/perfumes/perfume-124-1.jpeg"
+            "assets/images/perfumes/perfume-122-1.jpeg"
         ],
-        "description": ""
+        "description": "A captivating fragrance crafted for those who appreciate elegance and distinction."
     },
     {
         "id": 123,
-        "name": "LATAFAAH KHAAMRAAH 100 ML",
+        "name": "LATAFAAH KHAAMRAAH",
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹4000",
         "price": "₹3000",
-        "image": "assets/images/perfumes/perfume-125-1.jpeg",
+        "image": "assets/images/perfumes/perfume-123-1.jpeg",
         "images": [
-            "assets/images/perfumes/perfume-125-1.jpeg"
+            "assets/images/perfumes/perfume-123-1.jpeg"
         ],
-        "description": ""
-    },
-    {
-        "id": 124,
-        "name": "HAVAS ICE BY RASSAASI 100 ML",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹3500",
-        "price": "₹2500",
-        "image": "assets/images/perfumes/perfume-126-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-126-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 125,
-        "name": "IBRAHQ FRENCHH TOBACO 100 ML",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹6000",
-        "price": "₹3200",
-        "image": "assets/images/perfumes/perfume-127-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-127-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 126,
-        "name": "IBRAHQ SPANISHH TOBACO 100 ML",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹6000",
-        "price": "₹3200",
-        "image": "assets/images/perfumes/perfume-128-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-128-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 127,
-        "name": "IBRAHQ BLUE DIAMOND AQUA 150 ML",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹6000",
-        "price": "₹3000",
-        "image": "assets/images/perfumes/perfume-129-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-129-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 128,
-        "name": "AFNAANN 9PM REBEL",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹4500",
-        "price": "₹2800",
-        "image": "assets/images/perfumes/perfume-130-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-130-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 129,
-        "name": "AFNAANN 9PM",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹5000",
-        "price": "₹2600",
-        "image": "assets/images/perfumes/perfume-131-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-131-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 130,
-        "name": "KAAF AHMMED AL MAGGRIBI",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹4000",
-        "price": "₹2300",
-        "image": "assets/images/perfumes/perfume-132-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-132-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 131,
-        "name": "IBRAQH VINTAGE TOBBACOO",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹6000",
-        "price": "₹3200",
-        "image": "assets/images/perfumes/perfume-133-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-133-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 132,
-        "name": "HAVAS LONDON 100 ML",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹4000",
-        "price": "₹3000",
-        "image": "assets/images/perfumes/perfume-134-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-134-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 133,
-        "name": "HAVAS FIRE 100 ML",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹4000",
-        "price": "₹2800",
-        "image": "assets/images/perfumes/perfume-135-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-135-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 134,
-        "name": "ARMHAAF CLUB DE NUIIT ICONIC",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹7000",
-        "price": "₹3500",
-        "image": "assets/images/perfumes/perfume-136-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-136-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 135,
-        "name": "IBRAHQ GREEK TOBACCO",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹6000",
-        "price": "₹4000",
-        "image": "assets/images/perfumes/IBRAQGREEKTOBACO.jpeg",
-        "images": [
-            "assets/images/perfumes/IBRAQGREEKTOBACO.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 136,
-        "name": "AFNAANN 9PM ELIXIR",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹6000",
-        "price": "₹3000",
-        "image": "assets/images/perfumes/9PMELIXIR.jpeg",
-        "images": [
-            "assets/images/perfumes/9PMELIXIR.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 137,
-        "name": "LATAFAAH ASAD",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹5000",
-        "price": "₹3200",
-        "image": "assets/images/perfumes/perfume-137-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-137-1.jpeg"
-        ],
-        "description": ""
+        "description": "A captivating fragrance crafted for those who appreciate elegance and distinction."
     }
 ];
-;
-;
-;
-;
-;
-;
-;
 ;
 ;
 ;

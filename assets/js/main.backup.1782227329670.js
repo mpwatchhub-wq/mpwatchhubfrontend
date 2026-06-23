@@ -1460,22 +1460,8 @@ const products = [
             "assets/images/perfumes/9PMELIXIR.jpeg"
         ],
         "description": ""
-    },
-    {
-        "id": 137,
-        "name": "LATAFAAH ASAD",
-        "brand": "PERFUME",
-        "category": "perfumes",
-        "canceledPrice": "₹5000",
-        "price": "₹3200",
-        "image": "assets/images/perfumes/perfume-137-1.jpeg",
-        "images": [
-            "assets/images/perfumes/perfume-137-1.jpeg"
-        ],
-        "description": ""
     }
 ];
-;
 ;
 ;
 ;

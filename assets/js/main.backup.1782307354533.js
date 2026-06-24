@@ -1275,9 +1275,7 @@ const products = [
         "price": "₹2500",
         "image": "assets/images/perfumes/perfume-124-1.jpeg",
         "images": [
-            "assets/images/perfumes/perfume-124-1.jpeg",
-            "assets/images/perfumes/perfume-124-2.jpeg",
-            "assets/images/perfumes/perfume-124-3.jpeg"
+            "assets/images/perfumes/perfume-124-1.jpeg"
         ],
         "description": ""
     },
@@ -1286,13 +1284,11 @@ const products = [
         "name": "LATAFAAH KHAAMRAAH 100 ML",
         "brand": "PERFUME",
         "category": "perfumes",
-        "canceledPrice": "₹5000",
-        "price": "₹3500",
+        "canceledPrice": "₹4000",
+        "price": "₹3000",
         "image": "assets/images/perfumes/perfume-125-1.jpeg",
         "images": [
-            "assets/images/perfumes/perfume-125-1.jpeg",
-            "assets/images/perfumes/perfume-125-2.jpeg",
-            "assets/images/perfumes/perfume-125-3.jpeg"
+            "assets/images/perfumes/perfume-125-1.jpeg"
         ],
         "description": ""
     },
@@ -1305,9 +1301,7 @@ const products = [
         "price": "₹3700",
         "image": "assets/images/perfumes/perfume-126-1.jpeg",
         "images": [
-            "assets/images/perfumes/perfume-126-1.jpeg",
-            "assets/images/perfumes/perfume-126-2.jpeg",
-            "assets/images/perfumes/perfume-126-3.jpeg"
+            "assets/images/perfumes/perfume-126-1.jpeg"
         ],
         "description": ""
     },
@@ -1317,7 +1311,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹6000",
-        "price": "₹4000",
+        "price": "₹3700",
         "image": "assets/images/perfumes/perfume-127-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-127-1.jpeg"
@@ -1356,7 +1350,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹4500",
-        "price": "₹3600",
+        "price": "₹2800",
         "image": "assets/images/perfumes/perfume-130-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-130-1.jpeg"
@@ -1369,7 +1363,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹5000",
-        "price": "₹3600",
+        "price": "₹2600",
         "image": "assets/images/perfumes/perfume-131-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-131-1.jpeg"
@@ -1382,7 +1376,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹4000",
-        "price": "₹3500",
+        "price": "₹2800",
         "image": "assets/images/perfumes/perfume-132-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-132-1.jpeg"
@@ -1460,7 +1454,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹6000",
-        "price": "₹3600",
+        "price": "₹3400",
         "image": "assets/images/perfumes/9PMELIXIR.jpeg",
         "images": [
             "assets/images/perfumes/9PMELIXIR.jpeg"
@@ -1473,7 +1467,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹5000",
-        "price": "₹3500",
+        "price": "₹3200",
         "image": "assets/images/perfumes/perfume-137-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-137-1.jpeg"
@@ -1486,7 +1480,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹4000",
-        "price": "₹2700",
+        "price": "₹2500",
         "image": "assets/images/perfumes/perfume-138-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-138-1.jpeg"
@@ -1494,7 +1488,6 @@ const products = [
         "description": ""
     }
 ];
-;
 ;
 ;
 ;

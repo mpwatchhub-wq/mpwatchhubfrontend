@@ -57,17 +57,11 @@ const products = [
     },
     {
         "id": 8,
-        "name": "CASI0 luxry edition 3",
+        "name": "casi0 Luxury Edition 3",
         "brand": "CASI0",
-        "category": "watch",
-        "canceledPrice": "₹1500",
         "price": "₹1000",
         "image": "assets/images/brands/CASIO/casio-3.jpeg",
-        "images": [
-            "assets/images/brands/CASIO/casio-3.jpeg",
-            "assets/images/brands/CASIO/casio-3-2.jpeg"
-        ],
-        "description": ""
+        "description": "Experience the pinnacle of craftsmanship with this casi0 timepiece. A perfect blend of style and precision."
     },
     {
         "id": 9,
@@ -1522,73 +1516,8 @@ const products = [
         "image": "",
         "images": [],
         "description": ""
-    },
-    {
-        "id": 141,
-        "name": "CASI0 luxry edition 4",
-        "brand": "CASI0",
-        "category": "watch",
-        "canceledPrice": "₹3000",
-        "price": "₹1100",
-        "image": "assets/images/brands/CASIO/casio-141-1.jpeg",
-        "images": [
-            "assets/images/brands/CASIO/casio-141-1.jpeg",
-            "assets/images/brands/CASIO/casio-141-2.jpeg",
-            "assets/images/brands/CASIO/casio-141-3.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 142,
-        "name": "CASI0 luxry edition 5",
-        "brand": "CASI0",
-        "category": "watch",
-        "canceledPrice": "₹3000",
-        "price": "₹1400",
-        "image": "assets/images/brands/CASIO/casio-142-1.jpeg",
-        "images": [
-            "assets/images/brands/CASIO/casio-142-1.jpeg",
-            "assets/images/brands/CASIO/casio-142-2.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 143,
-        "name": "PATEKH FILIP luxury edition 1",
-        "brand": "PATEKH FILIP",
-        "category": "watch",
-        "canceledPrice": "₹3500",
-        "price": "₹1400",
-        "image": "assets/images/brands/PATEK/patekh filip-143-1.jpeg",
-        "images": [
-            "assets/images/brands/PATEK/patekh filip-143-1.jpeg",
-            "assets/images/brands/PATEK/patekh filip-143-2.jpeg",
-            "assets/images/brands/PATEK/patekh filip-143-3.jpeg",
-            "assets/images/brands/PATEK/patekh filip-143-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 144,
-        "name": "PATEKH FILIP luxury edition 2",
-        "brand": "PATEKH FILIP",
-        "category": "watch",
-        "canceledPrice": "₹3500",
-        "price": "₹1400",
-        "image": "assets/images/brands/PATEK/patekh filip-144-1.jpeg",
-        "images": [
-           "assets/images/brands/PATEK/patekh filip-144-1.jpeg",
-            "assets/images/brands/PATEK/patekh filip-144-2.jpeg",
-            "assets/images/brands/PATEK/patekh filip-144-3.jpeg"
-        ],
-        "description": ""
     }
 ];
-;
-;
-;
-;
-;
 ;
 ;
 ;

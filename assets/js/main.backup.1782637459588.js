@@ -1577,7 +1577,7 @@ const products = [
         "price": "₹1400",
         "image": "assets/images/brands/PATEK/patekh filip-144-1.jpeg",
         "images": [
-            "assets/images/brands/PATEK/patekh filip-144-1.jpeg",
+           "assets/images/brands/PATEK/patekh filip-144-1.jpeg",
             "assets/images/brands/PATEK/patekh filip-144-2.jpeg",
             "assets/images/brands/PATEK/patekh filip-144-3.jpeg"
         ],
@@ -1592,174 +1592,11 @@ const products = [
         "price": "₹750",
         "image": "assets/images/sunglasses/GUCCI/gucci-145-1.jpeg",
         "images": [
-            "assets/images/sunglasses/GUCCI/gucci-145-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 146,
-        "name": "R0LEX Luxury Edition 46",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹2000",
-        "price": "₹1050",
-        "image": "assets/images/brands/ROLEX/rolex-146-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-146-1.jpeg",
-            "assets/images/brands/ROLEX/rolex-146-2.jpeg",
-            "assets/images/brands/ROLEX/rolex-146-3.jpeg",
-            "assets/images/brands/ROLEX/rolex-146-4.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 147,
-        "name": "R0LEX Luxury Edition 47",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹2000",
-        "price": "₹1200",
-        "image": "assets/images/brands/ROLEX/rolex-147-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-147-1.jpeg",
-            "assets/images/brands/ROLEX/rolex-147-2.jpeg",
-            "assets/images/brands/ROLEX/rolex-147-3.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 148,
-        "name": "R0LEX Luxury Edition 48",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹2000",
-        "price": "₹1200",
-        "image": "assets/images/brands/ROLEX/rolex-148-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-148-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 149,
-        "name": "R0LEX Luxury Edition 49",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹2000",
-        "price": "₹1200",
-        "image": "assets/images/brands/ROLEX/rolex-149-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-149-1.jpeg",
-            "assets/images/brands/ROLEX/rolex-149-2.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 150,
-        "name": "R0LEX Luxury Edition 50",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹2000",
-        "price": "₹900",
-        "image": "assets/images/brands/ROLEX/rolex-150-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-150-1.jpeg",
-            "assets/images/brands/ROLEX/rolex-150-2.jpeg",
-            "assets/images/brands/ROLEX/rolex-150-3.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 151,
-        "name": "R0LEX Luxury Edition 51",
-        "brand": "R0LEX",
-        "category": "watch",
-        "canceledPrice": "₹2000",
-        "price": "₹1200",
-        "image": "assets/images/brands/ROLEX/rolex-151-1.jpeg",
-        "images": [
-            "assets/images/brands/ROLEX/rolex-151-1.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 152,
-        "name": "HUBl0T luxury edition 10",
-        "brand": "HUBl0T",
-        "category": "watch",
-        "canceledPrice": "₹2500",
-        "price": "₹1350",
-        "image": "assets/images/brands/HUBLOT/HUBl0T-152-1.jpeg",
-        "images": [
-            "assets/images/brands/HUBLOT/HUBl0T-152-1.jpeg",
-            "assets/images/brands/HUBLOT/HUBl0T-152-2.jpeg",
-            "assets/images/brands/HUBLOT/HUBl0T-152-3.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 153,
-        "name": "HUBl0T luxury edition 11",
-        "brand": "HUBl0T",
-        "category": "watch",
-        "canceledPrice": "₹2500",
-        "price": "₹1350",
-        "image": "assets/images/brands/HUBLOT/HUBl0T-153-1.jpeg",
-        "images": [
-            "assets/images/brands/HUBLOT/HUBl0T-153-1.jpeg",
-            "assets/images/brands/HUBLOT/HUBl0T-153-2.jpeg",
-            "assets/images/brands/HUBLOT/HUBl0T-153-3.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 154,
-        "name": "HUBl0T luxury edition 12",
-        "brand": "HUBl0T",
-        "category": "watch",
-        "canceledPrice": "₹2500",
-        "price": "₹1350",
-        "image": "assets/images/brands/HUBLOT/HUBl0T-154-1.jpeg",
-        "images": [
-            "assets/images/brands/HUBLOT/HUBl0T-154-1.jpeg",
-            "assets/images/brands/HUBLOT/HUBl0T-154-2.jpeg",
-            "assets/images/brands/HUBLOT/HUBl0T-154-3.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 155,
-        "name": "HUBl0T luxury edition 13",
-        "brand": "HUBl0T",
-        "category": "watch",
-        "canceledPrice": "₹2500",
-        "price": "₹1350",
-        "image": "assets/images/brands/HUBLOT/HUBl0T-155-1.jpeg",
-        "images": [
-            "assets/images/brands/HUBLOT/HUBl0T-155-1.jpeg",
-            "assets/images/brands/HUBLOT/HUBl0T-155-2.jpeg"
-        ],
-        "description": ""
-    },
-    {
-        "id": 156,
-        "name": "HUBl0T luxury edition 14",
-        "brand": "HUBl0T",
-        "category": "watch",
-        "canceledPrice": "₹2500",
-        "price": "₹1350",
-        "image": "assets/images/brands/HUBLOT/HUBl0T-156-1.jpeg",
-        "images": [
-            "assets/images/brands/HUBLOT/HUBl0T-156-1.jpeg",
-            "assets/images/brands/HUBLOT/HUBl0T-156-2.jpeg"
+            
         ],
         "description": ""
     }
 ];
-;
-;
-;
-;
 ;
 ;
 ;

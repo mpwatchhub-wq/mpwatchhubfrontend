@@ -1336,7 +1336,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹6000",
-        "price": "₹4000",
+        "price": "₹3250",
         "image": "assets/images/perfumes/perfume-128-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-128-1.jpeg"
@@ -1362,7 +1362,7 @@ const products = [
         "brand": "PERFUME",
         "category": "perfumes",
         "canceledPrice": "₹4500",
-        "price": "₹3600",
+        "price": "₹2350",
         "image": "assets/images/perfumes/perfume-130-1.jpeg",
         "images": [
             "assets/images/perfumes/perfume-130-1.jpeg"
@@ -1397,14 +1397,16 @@ const products = [
     },
     {
         "id": 131,
-        "name": "IBRAQH VINTAGE TOBBACOO",
+        "name": "IBRAQH VINTAGE TOBBACOO (100ML + 20ML)",
         "brand": "PERFUME",
         "category": "perfumes",
-        "canceledPrice": "₹6000",
-        "price": "₹4999",
+        "canceledPrice": "₹7000(MRP)",
+        "price": "₹4800",
         "image": "assets/images/perfumes/perfume-133-1.jpeg",
         "images": [
-            "assets/images/perfumes/perfume-133-1.jpeg"
+            "assets/images/perfumes/perfume-133-1.jpeg",
+            "assets/images/perfumes/IBRAQTOBACCOVINTAGE2.jpeg",
+            "assets/images/perfumes/IBRAQTOBACCOVINTAGE3.jpeg"
         ],
         "description": ""
     },
@@ -1754,7 +1756,26 @@ const products = [
             "assets/images/brands/HUBLOT/HUBl0T-156-2.jpeg"
         ],
         "description": ""
+    },
+    {
+        "id": 157,
+        "name": "IBRAHQ TOBACCO COLLECTION (20ML X 9PCS)",
+        "brand": "PERFUME",
+        "category": "perfumes",
+        "canceledPrice": "₹8000",
+        "price": "₹6200",
+        "image": "assets/images/perfumes/TOBACCOSETIMAGE1.jpeg",
+        "images": [
+            "assets/images/perfumes/TOBACCOSETIMAGE1.jpeg",
+           "assets/images/perfumes/TOBACCOSETIMAGE2.jpeg",
+           "assets/images/perfumes/TOBACCOSETIMAGE4.jpeg",
+           "assets/images/perfumes/TOBACCOSETIMAGE3.jpeg"
+        ],
+        "description": ""
+
+        
     }
+    
 ];
 ;
 ;

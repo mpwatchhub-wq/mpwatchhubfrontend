@@ -1400,7 +1400,7 @@ const products = [
         "name": "IBRAQH VINTAGE TOBBACOO (100ML + 20ML)",
         "brand": "PERFUME",
         "category": "perfumes",
-        "canceledPrice": "₹7000(MRP)",
+        "canceledPrice": "₹7000",
         "price": "₹4800",
         "image": "assets/images/perfumes/perfume-133-1.jpeg",
         "images": [
